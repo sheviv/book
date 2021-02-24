@@ -1,3 +1,5 @@
+# ch_6_Работа с текстом
+
 # элементарная очистка неструктурированных текстовых данных
 # Создать текст
 # text_data = [" Interrobang. By Aishwarya Henriette ","Parking And Going. By Karl Gautier"," Today Is The night. By Jarek Prakash "]

@@ -1,3 +1,5 @@
+# ch_1_Векторы, матрицы, массивы
+
 import numpy as np
 import scipy as sp
 from scipy import sparse
